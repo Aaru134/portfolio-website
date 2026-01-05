@@ -28,7 +28,7 @@ export default function Footer() {
                         <FaGithub />
                     </a>
                     <a
-                        href="https://linkedin.com/in/arti-pawar"
+                        href="https://www.linkedin.com/in/arti-pawar-600bbb2ba"
                         className="hover:text-white hover:scale-125 transition-all duration-300"
                         target="_blank"
                     >
